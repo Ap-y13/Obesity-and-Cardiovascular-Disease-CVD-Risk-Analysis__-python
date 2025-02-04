@@ -19,7 +19,7 @@ This project analyzes the relationship between obesity and cardiovascular diseas
    Model	                Accuracy	  Precision  	Recall  	F1-score
 - Logistic Regression	    85%       	83%       	80%	      81%
 - Random Forest          	90%       	89%       	87%      	88%
-- XGBoost                	92%       	91%       	90%      	91%
+  
  
 
 
